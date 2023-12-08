@@ -1,0 +1,26 @@
+{
+  "name": "@djazz/vue",
+  "version": "0.1.0",
+  "description": "Djazz components for Vue.js",
+  "author": "Ian Luan",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IanLuan/djazz.git",
+    "directory": "packages/vue"
+  },
+  "keywords": [
+    "vue",
+    "django",
+    "forms"
+  ],
+  
+  "bugs": {
+    "url": "https://github.com/IanLuan/djazz/issues"
+  },
+  "homepage": "https://github.com/IanLuan/djazz#readme"
+}
