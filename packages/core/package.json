@@ -1,7 +1,7 @@
 {
-  "name": "@djazz/vue",
+  "name": "@djazz/core",
   "version": "0.1.0",
-  "description": "Djazz components for Vue.js",
+  "description": "Djazz core functions used in Vue and React components",
   "author": "Ian Luan",
   "license": "MIT",
   "type": "module",
@@ -13,20 +13,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/IanLuan/djazz.git",
-    "directory": "packages/vue"
+    "directory": "packages/core"
   },
-  "keywords": [
-    "vue",
-    "django",
-    "forms"
-  ],
   "bugs": {
     "url": "https://github.com/IanLuan/djazz/issues"
   },
   "homepage": "https://github.com/IanLuan/djazz#readme",
   "devDependencies": {
-    "esbuild": "^0.19.8",
-    "esbuild-vue": "^1.2.2",
-    "vue": "^2.7.15"
+    "esbuild": "^0.19.8"
   }
 }
