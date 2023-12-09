@@ -1,4 +1,5 @@
 node_modules
+dist
 *.egg-info/
 package-lock.json
 *.pyc
