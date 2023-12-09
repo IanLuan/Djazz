@@ -13,7 +13,7 @@
 
 <script>
 import Field from './Field.vue';
-import { getFieldsByFormName, filterFields } from '../../core/dist/index.js';
+import { getFieldsByFormName, filterFields } from '@djazz/core';
 
 export default {
   components: {
